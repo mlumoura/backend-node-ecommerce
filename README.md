@@ -1,17 +1,14 @@
-E-commerce de camisas de times de futebol usando React com Redux, além de explorar o Material UI e o Bootstrap.
+Backend para o E-commerce de camisas de times de futebol usando Node.js com o TypeORM e o banco de dados SQLite.
 
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
 
-### `yarn start`
+### `yarn dev`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open [http://localhost:3000](http://localhost:5000/message) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
